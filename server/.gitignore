@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+main
+server
+
+# Test binary
+*.test
+
+# Output of go coverage
+*.out
+
+# Air tmp directory
+tmp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Environment files
+.env
+.env.local
